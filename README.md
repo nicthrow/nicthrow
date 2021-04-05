@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There! 👋🏾 My name is Nicole (or Nic). I'm currently learning JavaScript through The Odin Project. I started this journey to write an app to help women of domestic violence. I hope to inspire other women of color to learn to code while also making a career change.
 
 <!--
 **nicthrow/nicthrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
